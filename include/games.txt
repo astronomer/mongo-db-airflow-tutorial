@@ -1,0 +1,12 @@
+1 ::: Minecraft (2009) ::: sandbox ::: In a blocky, procedurally-generated world, players explore, gather resources, craft tools, and build structures, with the option to fight off monsters and explore vast environments.
+2 ::: The Sims 2 (2004) ::: life simulation ::: Players create and control characters, managing their lives, relationships, and homes in a virtual world, while guiding them through everyday tasks and fulfilling personal ambitions.
+3 ::: Call of Duty: Modern Warfare 2 (2009) ::: shooter ::: In this intense military first-person shooter, players join elite military operations across the globe, fighting in a fast-paced war against a dangerous enemy.
+4 ::: Halo 3 (2007) ::: sci-fi shooter ::: Master Chief returns to finish the fight against the Covenant and the Flood, battling across futuristic environments in a war to save humanity.
+5 ::: Star Wars: Battlefront 2 (2005) ::: action shooter ::: Players fight in large-scale battles across iconic Star Wars locations, engaging in both ground and space combat to claim victory.
+6 ::: Age of Mythology (2002) ::: real-time strategy ::: Players command armies of mythological creatures and heroes, leveraging the powers of gods to wage war in an ancient, myth-inspired world.
+7 ::: Stronghold (2001) ::: real-time strategy ::: In a medieval world, players build and manage castles, control armies, and lay siege to enemies, balancing economic management with military strategy.
+8 ::: Command & Conquer: Tiberium Wars (2007) ::: real-time strategy ::: In a futuristic setting, players lead global military factions battling over the alien resource Tiberium, engaging in fast-paced tactical warfare.
+9 ::: Minesweeper (1990) ::: puzzle ::: In this classic puzzle game, players use logic to uncover hidden mines on a grid without triggering any explosions.
+10 ::: Addy Junior (2000) ::: educational ::: An educational game designed to help children improve reading, math, and problem-solving skills through engaging, playful activities.
+11 ::: Impossible Creatures (2003) ::: real-time strategy ::: Players design and combine creatures using DNA from various animals, creating unique hybrids to lead in battle across an alternate 1930s world.
+12 ::: World of Warcraft (2004) ::: MMORPG ::: Players explore a vast fantasy world, completing quests, battling enemies, and forming alliances in an ever-changing landscape of adventure.
